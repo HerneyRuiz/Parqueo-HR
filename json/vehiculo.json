@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "Marca": "Audi",
+        "Placa": "983HAY",
+        "Año": "2009"
+    },
+    {
+        "id": 2,
+        "Marca": "BMW",
+        "Placa": "765GFD",
+        "Año": "2016"
+    },
+    {
+        "id": 3,
+        "Marca": "FORD",
+        "Placa": "743KGJ",
+        "Año": "2018"
+    },
+    {
+        "id": 4,
+        "Marca": "HONDA",
+        "Placa": "936JGL",
+        "Año": "2019"
+    }
+]
